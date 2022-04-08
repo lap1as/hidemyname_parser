@@ -609,3 +609,23 @@ DevTools listening on ws://localhost:33571/devtools/browser/bd8241df-8872-4aac-b
 1649407786812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript error: https://mc.yandex.ru/watch/42065329?callback=_ymjsp1072267329&page-url=https%3A%2F%2Fhidemy.name%2Fua%2Fproxy-list%2F%3Fmaxtime%3D0%26type%3D5%23list&charset=utf-8&browser-info=pv%3A1%3Agdpr%3A14%3Avf%3A3epd2p1htlh5k1gtogow%3Afp%3A672%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aen-US%3Av%3A780%3Acn%3A1%3Adp%3A0%3Als%3A503420460249%3Ahid%3A914201062%3Az%3A180%3Ai%3A20220408114954%3Aet%3A1649407794%3Ac%3A1%3Arn%3A574135022%3Arqn%3A1%3Au%3A1649407794549505937%3Aw%3A1354x683%3As%3A1366x768x24%3Ask%3A1%3Ahdl%3A1%3Ans%3A1649407792914%3Ads%3A2%2C100%2C251%2C2%2C-2%2C0%2C%2C297%2C0%2C739%2C739%2C0%2C671%3Aco%3A0%3Afip%3Ad28cfe8fee239c99ec086d4d70fe4ad7-a81f3b9bcdd80a361c14af38dc09b309-a81f3b9bcdd80a361c14af38dc09b309-4bd84c89c35a312599d807af285e7b5f-f403d4eb969b9e6d14271a717a212b64-91eb51bfbe633e8265d95c90438e29b6-61b9878bbce18de73aafc8582a198c0c-fc553f3f5a36936329305c4fd995c3e9-a81f3b9bcdd80a361c14af38dc09b309-c6d7b47b2dcff33f80cab17f3a360d0b-87f2ecdbff337b451a3c33faac458abd%3Arqnl%3A1%3Ast%3A1649407795%3At%3A%D0%9F%D1%80%D0%BE%D0%BA%D1%81%D1%96-%D0%BB%D0%B8%D1%81%D1%82%D0%B8%2C%20%F0%9F%95%B5%EF%B8%8F%20%D0%B1%D0%B5%D0%B7%D0%BA%D0%BE%D1%88%D1%82%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%B0%D0%BD%D0%BE%D0%BD%D1%96%D0%BC%D0%BD%D0%B8%D1%85%20proxy-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D1%96%D0%B2%3A%20HTTPS%2C%20Socks4%2C%20Socks5%2C%20txt-%D0%B5%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82%20ip-port%20%D1%96%20API-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%20%E2%80%94%20hidemy.name&t=gdpr(14)aw(1)fip(1)ti(3)&wmode=5, line 2: SyntaxError: expected expression, got '<'
+1649446708629	geckodriver	INFO	Listening on 127.0.0.1:37539
+1649446708645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "39239" "-no-remote" "-profile" "/tmp/rust_mozprofile6vKX3a"
+*** You are running in headless mode.
+1649446709556	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6vKX3a/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39239/devtools/browser/e003eb80-d09b-4a83-9b5b-98cd9ad11288
+1649446711564	Marionette	INFO	Listening on port 43569
+1649446711622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649446829344	geckodriver	INFO	Listening on 127.0.0.1:41843
+1649446829372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "55517" "-no-remote" "-profile" "/tmp/rust_mozprofileEDpz28"
+*** You are running in headless mode.
+1649446830076	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEDpz28/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55517/devtools/browser/6b505109-eb82-434b-9801-e2b53dd2d8bf
+1649446832670	Marionette	INFO	Listening on port 43251
+1649446832726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
